@@ -1,5 +1,5 @@
 ## Hi there I am Aishwarya Soni👋
-
+![logo](https://github.com/Aishwaryaabesec/Aishwaryaabesec/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aishwarya Soni</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 <img align = "right" alt = "coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
